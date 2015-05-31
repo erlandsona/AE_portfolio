@@ -1,4 +1,4 @@
-Grayscale Jekyll theme
+Austin Erlandson
 =========================
 
 Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
